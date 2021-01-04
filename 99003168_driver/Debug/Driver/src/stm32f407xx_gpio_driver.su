@@ -1,0 +1,8 @@
+stm32f407xx_gpio_driver.c:24:6:GPIO_PERICLKCTRL	16	static
+stm32f407xx_gpio_driver.c:118:6:GPIO_INIT	24	static
+stm32f407xx_gpio_driver.c:167:6:GPIO_DINIT	16	static
+stm32f407xx_gpio_driver.c:219:9:GPIO_READFROMIPPIN	24	static
+stm32f407xx_gpio_driver.c:239:10:GPIO_READFROMIPPORT	24	static
+stm32f407xx_gpio_driver.c:260:6:GPIO_WRITETOOUPUTPIN	16	static
+stm32f407xx_gpio_driver.c:283:6:GPIO_WRITETOOUPUTPORT	16	static
+stm32f407xx_gpio_driver.c:298:6:GPIO_TOGGLEOUTPUTPIN	16	static
